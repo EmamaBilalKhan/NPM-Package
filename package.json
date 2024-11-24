@@ -1,0 +1,23 @@
+{
+  "name": "products-emama-bilal",
+  "version": "1.0.0",
+  "description": "NPM Package to perform http methods on products using dummyjson API. Made for Web Technologies course work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmamaBilalKhan/NPM-Package.git"
+  },
+  "keywords": [
+    "EmamaBilal",
+    "emamabilal"
+  ],
+  "author": "Emama Bilal Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmamaBilalKhan/NPM-Package/issues"
+  },
+  "homepage": "https://github.com/EmamaBilalKhan/NPM-Package#readme"
+}

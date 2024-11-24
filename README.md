@@ -81,7 +81,7 @@ deleteProduct(2)
   .catch((error) => console.error("Error deleting product:", error));
 ```
 
-### Author
+## Author
 
 **Emama Bilal Khan**
 Software Engineering Student, COMSATS University, Lahore.
